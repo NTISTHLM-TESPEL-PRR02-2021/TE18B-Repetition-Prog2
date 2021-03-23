@@ -12,7 +12,7 @@ namespace Repetition
 
     public override void Run()
     {
-      x += 3;
+      X += 3;
     }
   }
 }
